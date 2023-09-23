@@ -8,3 +8,4 @@
 Achrlund/Achrlund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Hvad har jeg at gøre i Github når jeg er dansker og ikke forstår teknokratisk  her henvises til coder som jeg ikke forstår at bruge, jeg forstår at dette progran er for teknikkere der udvikler projekter og gemmer dem herunder får respons fra andre der opbygger lignende projekter osv. er jeg helt galt afsporet da for tæl mig hvad GITHUB kan bruges til for en bruger af social karekter ?!  
